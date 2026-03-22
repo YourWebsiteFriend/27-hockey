@@ -48,17 +48,16 @@ export function HeroSection() {
           transition={{ duration: 0.65, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
           className="mb-6 font-[family-name:var(--font-display)] text-[clamp(3.2rem,9vw,7.5rem)] leading-[0.92] tracking-[-0.01em] text-white"
         >
-          COACHED
+          FASTER.
           <br />
-          BY A{" "}
           <span
             className="text-[#41B3FF]"
             style={{ textShadow: "0 0 40px rgba(65,179,255,0.4)" }}
           >
-            FORMER
+            SHARPER.
           </span>
           <br />
-          PRO.
+          NEXT LEVEL.
         </motion.h1>
 
         <motion.p
